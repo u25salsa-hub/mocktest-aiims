@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AIIMS CRE - Mock Test Platform</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f2f5;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        .welcome-container {
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 20px 40px;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.2em;
+            color: #005a9e;
+        }
+        .welcome-text p {
+            font-size: 1.1em;
+            line-height: 1.6;
+            margin: 20px 0;
+        }
+        .creator-credit {
+            margin-top: 40px;
+            font-style: italic;
+            color: #555;
+            font-size: 0.9em;
+        }
+
+        /* Desktop Button Grid */
+        .test-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+            gap: 15px;
+            margin-top: 40px;
+        }
+        .test-grid a {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px 10px;
+            background-color: #28a745;
+            color: white;
+            text-decoration: none;
+            font-size: 1.1em;
+            font-weight: bold;
+            border-radius: 8px;
+            transition: background-color 0.3s, transform 0.2s;
+        }
+        .test-grid a:hover {
+            background-color: #218838;
+            transform: translateY(-3px);
+        }
+
+        /* Mobile Dropdown Menu */
+        .mobile-test-selector {
+            display: none; /* Hidden by default */
+            margin-top: 30px;
+        }
+        .mobile-test-selector label {
+            display: block;
+            margin-bottom: 10px;
+            font-size: 1.2em;
+            font-weight: bold;
+        }
+        .mobile-test-selector select {
+            width: 100%;
+            padding: 15px;
+            font-size: 1.1em;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+        }
+
+        /* Responsive Switch */
+        @media (max-width: 768px) {
+            .test-grid {
+                display: none; /* Hide grid on mobile */
+            }
+            .mobile-test-selector {
+                display: block; /* Show dropdown on mobile */
+            }
+            h1 { font-size: 1.8em; }
+            .welcome-container { padding: 20px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="welcome-container">
+        <div class="welcome-text">
+            <h1>Welcome to the AIIMS CRE Mock Test! 🎯</h1>
+            <p>
+                Take tests for free, track your progress, and prepare with practice designed just like the real AIIMS CRE. Start today and move closer to success! 🚀
+            </p>
+        </div>
+        
+        <div class="test-grid" id="test-grid-container"></div>
+
+        <div class="mobile-test-selector">
+            <label for="test-select">Choose a Mock Test:</label>
+            <select id="test-select">
+                <option value="">Select a test...</option>
+            </select>
+        </div>
+
+        <p class="creator-credit">Created by Salsa Sanjay for the MLT community.✨
+        for any queries contact me n instagram at salsa.sanjay 
+        </p>
+    </div>
+
+    <script>
+        const gridContainer = document.getElementById('test-grid-container');
+        const selectMenu = document.getElementById('test-select');
+        const numberOfTests = 30;
+
+        for (let i = 1; i <= numberOfTests; i++) {
+            const testUrl = `quiz.html?test=test${i}`;
+            const testText = `Mock ${i}`;
+
+            // Create button for desktop grid
+            const link = document.createElement('a');
+            link.href = testUrl;
+            link.textContent = testText;
+            gridContainer.appendChild(link);
+
+            // Create option for mobile dropdown
+            const option = document.createElement('option');
+            option.value = testUrl;
+            option.textContent = testText;
+            selectMenu.appendChild(option);
+        }
+
+        // Add event listener for mobile dropdown to navigate on change
+        selectMenu.addEventListener('change', (event) => {
+            if (event.target.value) {
+                window.location.href = event.target.value;
+            }
+        });
+    </script>
+</body>
+</html>

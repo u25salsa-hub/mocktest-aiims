@@ -1,0 +1,699 @@
+[
+ 
+ {
+  "question": "When did the Quit India Movement begin?",
+  "optionA": "1930",
+  "optionB": "1942",
+  "optionC": "1947",
+  "optionD": "1919",
+  "answer": "1942"
+ },
+ {
+  "question": "The Khyber Pass connects which two countries?",
+  "optionA": "India and Nepal",
+  "optionB": "Pakistan and Afghanistan",
+  "optionC": "Iran and Iraq",
+  "optionD": "China and Pakistan",
+  "answer": "Pakistan and Afghanistan"
+ },
+ {
+  "question": "The Bandung Conference was a precursor to what?",
+  "optionA": "The United Nations",
+  "optionB": "The Warsaw Pact",
+  "optionC": "The Non-Aligned Movement (NAM) held during the Cold War era (1955).",
+  "optionD": "The League of Nations",
+  "answer": "The Non-Aligned Movement (NAM) held during the Cold War era (1955)."
+ },
+ {
+  "question": "What is considered the brain of a computer?",
+  "optionA": "RAM",
+  "optionB": "Motherboard",
+  "optionC": "CPU (Central Processing Unit)",
+  "optionD": "Hard Drive",
+  "answer": "CPU (Central Processing Unit)"
+ },
+ {
+  "question": "Which of the following is an operating system?",
+  "optionA": "Microsoft Office",
+  "optionB": "Linux",
+  "optionC": "Google Chrome",
+  "optionD": "Adobe Photoshop",
+  "answer": "Linux"
+ },
+ {
+  "question": "Find the odd one out: Linux Ruby Java Python.",
+  "optionA": "Java",
+  "optionB": "Python",
+  "optionC": "Ruby",
+  "optionD": "Linux",
+  "answer": "Linux"
+ },
+ {
+  "question": "In Microsoft Excel what symbol does a formula start with?",
+  "optionA": "=",
+  "optionB": "&",
+  "optionC": "$",
+  "optionD": "#",
+  "answer": "="
+ },
+ {
+  "question": "Which of the following is an open-source web browser?",
+  "optionA": "Internet Explorer",
+  "optionB": "Safari",
+  "optionC": "Mozilla Firefox",
+  "optionD": "Microsoft Edge",
+  "answer": "Mozilla Firefox"
+ },
+ {
+  "question": "Find the grammatical error: \"He along with his friends have arrived.\"",
+  "optionA": "No error",
+  "optionB": "friends have arrived",
+  "optionC": "He along",
+  "optionD": "have arrived",
+  "answer": "have arrived"
+ },
+ {
+  "question": "Identify the figure of speech: \"All the world's a stage...\"",
+  "optionA": "Simile",
+  "optionB": "Personification",
+  "optionC": "Metaphor",
+  "optionD": "Hyperbole",
+  "answer": "Metaphor"
+ },
+ {
+  "question": "Complete the analogy: Lens is to Camera as _____ is to Ear.",
+  "optionA": "Pinna",
+  "optionB": "Eardrum",
+  "optionC": "Auditory Nerve",
+  "optionD": "Anvil",
+  "answer": "Eardrum"
+ },
+ {
+  "question": "Which of the following words is spelled correctly?",
+  "optionA": "Harrassment",
+  "optionB": "Harassment",
+  "optionC": "Harrasment",
+  "optionD": "Harresment",
+  "answer": "Harassment"
+ },
+ {
+  "question": "What is the currency of South Africa?",
+  "optionA": "Yen",
+  "optionB": "Rand",
+  "optionC": "Peso",
+  "optionD": "Dollar",
+  "answer": "Rand"
+ },
+ {
+  "question": "Which article of the Indian Constitution deals with the abolishment of untouchability?",
+  "optionA": "Article 14",
+  "optionB": "Article 17",
+  "optionC": "Article 21",
+  "optionD": "Article 19",
+  "answer": "Article 17"
+ },
+ {
+  "question": "In which state is the Nanda Devi peak located?",
+  "optionA": "Himachal Pradesh",
+  "optionB": "Sikkim",
+  "optionC": "Uttarakhand",
+  "optionD": "Jammu and Kashmir",
+  "answer": "Uttarakhand"
+ },
+ {
+  "question": "Fill in the blank: \"The minister's speech was full of _____ making it difficult to understand his actual stand.\"",
+  "optionA": "Clarity",
+  "optionB": "Precision",
+  "optionC": "Ambiguity",
+  "optionD": "Certainty",
+  "answer": "Ambiguity"
+ },
+ {
+  "question": "Which is the correct sentence: \"He prefers tea _____ coffee.\"",
+  "optionA": "than",
+  "optionB": "over",
+  "optionC": "to",
+  "optionD": "from",
+  "answer": "to"
+ },
+ {
+  "question": "Find the odd one out: Aluminium Graphite Iron Copper.",
+  "optionA": "Iron",
+  "optionB": "Copper",
+  "optionC": "Aluminium",
+  "optionD": "Graphite",
+  "answer": "Graphite"
+ },
+ {
+  "question": "Complete the sentence: \"By this time tomorrow we _____ our journey.\"",
+  "optionA": "will complete",
+  "optionB": "will be completing",
+  "optionC": "will have completed",
+  "optionD": "completed",
+  "answer": "will have completed"
+ },
+ {
+  "question": "What are the globin chains in Fetal Hemoglobin (HbF)?",
+  "optionA": "α2δ2",
+  "optionB": "α2β2",
+  "optionC": "α2γ2",
+  "optionD": "γ2β2",
+  "answer": "α2γ2"
+ },
+ {
+  "question": "What are the globin chains in Adult Hemoglobin (HbA)?",
+  "optionA": "α2γ2",
+  "optionB": "α2β2",
+  "optionC": "α2δ2",
+  "optionD": "γ2δ2",
+  "answer": "α2β2"
+ },
+ {
+  "question": "What is the main storage form of iron in the body?",
+  "optionA": "Transferrin",
+  "optionB": "Hemoglobin",
+  "optionC": "Myoglobin",
+  "optionD": "Ferritin and Hemosiderin",
+  "answer": "Ferritin and Hemosiderin"
+ },
+ {
+  "question": "What is the best method to detect hemoglobinopathies?",
+  "optionA": "Complete Blood Count (CBC)",
+  "optionB": "Peripheral Smear",
+  "optionC": "Hemoglobin Electrophoresis",
+  "optionD": "Iron Studies",
+  "answer": "Hemoglobin Electrophoresis"
+ },
+ {
+  "question": "The Kleihauer-Betke test is used to quantify what?",
+  "optionA": "White Blood Cells",
+  "optionB": "Platelets",
+  "optionC": "Reticulocytes",
+  "optionD": "Fetal Hemoglobin (HbF)",
+  "answer": "Fetal Hemoglobin (HbF)"
+ },
+ {
+  "question": "What is the length of a Wintrobe tube?",
+  "optionA": "15 cm",
+  "optionB": "11 cm",
+  "optionC": "20 cm",
+  "optionD": "9 cm",
+  "answer": "11 cm"
+ },
+ {
+  "question": "What is the ideal length for a peripheral blood film (PBF)?",
+  "optionA": "Covering the entire slide",
+  "optionB": "Covering 1/4 of the slide",
+  "optionC": "Covering 1/3 to 2/3 of the slide",
+  "optionD": "Only at the edges",
+  "answer": "Covering 1/3 to 2/3 of the slide"
+ },
+ {
+  "question": "What kind of chart is used to monitor quality control in the lab?",
+  "optionA": "Pie Chart",
+  "optionB": "Bar Graph",
+  "optionC": "Levey-Jennings (LJ) chart",
+  "optionD": "Flow Chart",
+  "answer": "Levey-Jennings (LJ) chart"
+ },
+ {
+  "question": "What is the primary function of the Golgi apparatus in a cell?",
+  "optionA": "Energy production",
+  "optionB": "DNA replication",
+  "optionC": "Packaging and transport of proteins",
+  "optionD": "Waste disposal",
+  "answer": "Packaging and transport of proteins"
+ },
+ {
+  "question": "The complete genetic makeup of an organism is its:",
+  "optionA": "Phenotype",
+  "optionB": "Karyotype",
+  "optionC": "Genotype",
+  "optionD": "Proteome",
+  "answer": "Genotype"
+ },
+ {
+  "question": "What is the primary function of the Krebs cycle (TCA cycle)?",
+  "optionA": "Glycogen storage",
+  "optionB": "Fatty acid breakdown",
+  "optionC": "ATP synthesis",
+  "optionD": "Protein synthesis",
+  "answer": "ATP synthesis"
+ },
+ {
+  "question": "Which enzymes are key in cellular respiration's electron transport chain?",
+  "optionA": "Amylases",
+  "optionB": "Lipases",
+  "optionC": "Proteases",
+  "optionD": "Cytochromes",
+  "answer": "Cytochromes"
+ },
+ {
+  "question": "The Van den Bergh reaction measures what substance?",
+  "optionA": "Glucose",
+  "optionB": "Creatinine",
+  "optionC": "Bilirubin",
+  "optionD": "Urea",
+  "answer": "Bilirubin"
+ },
+ {
+  "question": "The eGFR test assesses the function of which organ?",
+  "optionA": "Liver",
+  "optionB": "Kidney",
+  "optionC": "Heart",
+  "optionD": "Lungs",
+  "answer": "Kidney"
+ },
+ {
+  "question": "The International Normalized Ratio (INR) standardizes which test?",
+  "optionA": "Activated Partial Thromboplastin Time (APTT)",
+  "optionB": "Prothrombin Time (PT)",
+  "optionC": "Thrombin Time (TT)",
+  "optionD": "Bleeding Time (BT)",
+  "answer": "Prothrombin Time (PT)"
+ },
+ {
+  "question": "What is lyophilization also known as?",
+  "optionA": "Pasteurization",
+  "optionB": "Homogenization",
+  "optionC": "Freeze-drying",
+  "optionD": "Distillation",
+  "answer": "Freeze-drying"
+ },
+ {
+  "question": "What is the basic action of antibiotics?",
+  "optionA": "Neutralize viruses",
+  "optionB": "Destroy fungal cells",
+  "optionC": "To kill or inhibit the growth of bacteria",
+  "optionD": "Reduce inflammation",
+  "answer": "To kill or inhibit the growth of bacteria"
+ },
+ {
+  "question": "Which microscope is best for viewing live unstained cells?",
+  "optionA": "Electron microscope",
+  "optionB": "Fluorescent microscope",
+  "optionC": "Phase-contrast microscope",
+  "optionD": "Dark-field microscope",
+  "answer": "Phase-contrast microscope"
+ },
+ {
+  "question": "A \"cobweb\" appearance in a CSF sample is characteristic of:",
+  "optionA": "Bacterial Meningitis",
+  "optionB": "Viral Meningitis",
+  "optionC": "Fungal Meningitis",
+  "optionD": "Tubercular (TB) Meningitis",
+  "answer": "Tubercular (TB) Meningitis"
+ },
+ {
+  "question": "Which specimen should never be refrigerated?",
+  "optionA": "Urine for routine analysis",
+  "optionB": "Sputum for cytology",
+  "optionC": "Cerebrospinal Fluid (CSF) for bacteriology",
+  "optionD": "Whole blood for CBC",
+  "answer": "Cerebrospinal Fluid (CSF) for bacteriology"
+ },
+ {
+  "question": "A positive India ink preparation of a CSF sample indicates which organism?",
+  "optionA": "Neisseria meningitidis",
+  "optionB": "Cryptococcus neoformans",
+  "optionC": "Streptococcus pneumoniae",
+  "optionD": "Haemophilus influenzae",
+  "answer": "Cryptococcus neoformans"
+ },
+ {
+  "question": "What criteria define a good quality sputum sample?",
+  "optionA": "<10 pus cells and >25 epithelial cells",
+  "optionB": ">25 pus cells and <10 epithelial cells",
+  "optionC": "Equal pus and epithelial cells",
+  "optionD": "Only pus cells present",
+  "answer": ">25 pus cells and <10 epithelial cells"
+ },
+ {
+  "question": "What is the typical progression (order) of urinary casts in renal failure?",
+  "optionA": "Waxy → Granular → Cellular → Hyaline",
+  "optionB": "Hyaline → Granular → Cellular → Waxy",
+  "optionC": "Cellular → Hyaline → Waxy → Granular",
+  "optionD": "Granular → Waxy → Hyaline → Cellular",
+  "answer": "Hyaline → Granular → Cellular → Waxy"
+ },
+ {
+  "question": "What is the best test for diagnosing HIV in an infant?",
+  "optionA": "ELISA for antibodies",
+  "optionB": "Western Blot",
+  "optionC": "Rapid antibody test",
+  "optionD": "HIV DNA PCR",
+  "answer": "HIV DNA PCR"
+ },
+ {
+  "question": "After Hepatitis B vaccination which marker rises to confer immunity?",
+  "optionA": "Anti-HBc",
+  "optionB": "HBsAg",
+  "optionC": "Anti-HBs antibody",
+  "optionD": "HBeAg",
+  "answer": "Anti-HBs antibody"
+ },
+ {
+  "question": "In Hepatitis B vaccination a \"non-responder\" fails to seroconvert after how many primary doses?",
+  "optionA": "1 dose",
+  "optionB": "2 doses",
+  "optionC": "A full primary series (typically 3 doses)",
+  "optionD": "4 doses",
+  "answer": "A full primary series (typically 3 doses)"
+ },
+ {
+  "question": "What is the most common cause of chronic hepatitis/liver cirrhosis?",
+  "optionA": "Hepatitis A Virus (HAV)",
+  "optionB": "Hepatitis C Virus (HCV)",
+  "optionC": "Hepatitis B Virus (HBV)",
+  "optionD": "Hepatitis E Virus (HEV)",
+  "answer": "Hepatitis B Virus (HBV)"
+ },
+ {
+  "question": "Which form of viral hepatitis has the highest mortality rate during pregnancy?",
+  "optionA": "Hepatitis A",
+  "optionB": "Hepatitis B",
+  "optionC": "Hepatitis C",
+  "optionD": "Hepatitis E",
+  "answer": "Hepatitis E"
+ },
+ {
+  "question": "What is the correct order of occupational infection risk (highest to lowest)?",
+  "optionA": "HIV > HCV > HBV",
+  "optionB": "HBV > HIV > HCV",
+  "optionC": "HBV > HCV > HIV",
+  "optionD": "HCV > HBV > HIV",
+  "answer": "HBV > HCV > HIV"
+ },
+ {
+  "question": "Which is an airborne disease?",
+  "optionA": "Hepatitis A",
+  "optionB": "Typhoid",
+  "optionC": "Influenza",
+  "optionD": "Cholera",
+  "answer": "Influenza"
+ },
+ {
+  "question": "Which is a sexually transmitted disease (STD)?",
+  "optionA": "Malaria",
+  "optionB": "Dengue",
+  "optionC": "Tuberculosis",
+  "optionD": "Gonorrhea",
+  "answer": "Gonorrhea"
+ },
+ {
+  "question": "After the Rubella vaccine how long should pregnancy be avoided?",
+  "optionA": "1 week",
+  "optionB": "3 months",
+  "optionC": "6 months",
+  "optionD": "1 month",
+  "answer": "1 month"
+ },
+ {
+  "question": "All are vector-borne diseases EXCEPT:",
+  "optionA": "Malaria",
+  "optionB": "Dengue",
+  "optionC": "Chikungunya",
+  "optionD": "Rubella",
+  "answer": "Rubella"
+ },
+ {
+  "question": "A \"rice water stool\" is characteristic of which disease?",
+  "optionA": "Typhoid",
+  "optionB": "Dysentery",
+  "optionC": "Cholera",
+  "optionD": "Giardiasis",
+  "answer": "Cholera"
+ },
+ {
+  "question": "The cat is the definitive host for which parasite?",
+  "optionA": "Giardia lamblia",
+  "optionB": "Plasmodium falciparum",
+  "optionC": "Toxoplasma gondii",
+  "optionD": "Entamoeba histolytica",
+  "answer": "Toxoplasma gondii"
+ },
+ {
+  "question": "Which parasite is difficult to inoculate in lab animals?",
+  "optionA": "Plasmodium vivax",
+  "optionB": "Leishmania donovani",
+  "optionC": "Trichomonas vaginalis",
+  "optionD": "Trypanosoma cruzi",
+  "answer": "Trichomonas vaginalis"
+ },
+ {
+  "question": "What is the most predominant normal flora of the human intestine?",
+  "optionA": "E. coli",
+  "optionB": "Lactobacillus",
+  "optionC": "Staphylococcus aureus",
+  "optionD": "Bacteroides fragilis (anaerobic)",
+  "answer": "Bacteroides fragilis (anaerobic)"
+ },
+ {
+  "question": "All of these tests are used for malaria EXCEPT:",
+  "optionA": "Rapid Diagnostic Test (RDT)",
+  "optionB": "Peripheral Smear Examination",
+  "optionC": "QBC (Quantitative Buffy Coat)",
+  "optionD": "Albert stain",
+  "answer": "Albert stain"
+ },
+ {
+  "question": "TB can be diagnosed by all methods EXCEPT:",
+  "optionA": "Ziehl-Neelsen Stain",
+  "optionB": "GeneXpert (PCR)",
+  "optionC": "Tuberculin Skin Test",
+  "optionD": "Gram Stain",
+  "answer": "Gram Stain"
+ },
+ {
+  "question": "What is the agar concentration in nutrient agar?",
+  "optionA": "0.50%",
+  "optionB": "1.00%",
+  "optionC": "1.5% - 2.0%",
+  "optionD": "3.00%",
+  "answer": "1.5% - 2.0%"
+ },
+ {
+  "question": "What is the best medium for a routine urine culture?",
+  "optionA": "MacConkey Agar",
+  "optionB": "Blood Agar",
+  "optionC": "CLED Agar",
+  "optionD": "Chocolate Agar",
+  "answer": "CLED Agar"
+ },
+ {
+  "question": "What is the selective medium for Mycobacterium tuberculosis?",
+  "optionA": "TCBS Agar",
+  "optionB": "Löwenstein–Jensen (LJ) medium",
+  "optionC": "MacConkey Agar",
+  "optionD": "Sabouraud Dextrose Agar",
+  "answer": "Löwenstein–Jensen (LJ) medium"
+ },
+ {
+  "question": "What is the selective medium for Vibrio species?",
+  "optionA": "MacConkey Agar",
+  "optionB": "Blood Agar",
+  "optionC": "TCBS Agar",
+  "optionD": "LJ Medium",
+  "answer": "TCBS Agar"
+ },
+ {
+  "question": "What is the enrichment broth for Vibrio species?",
+  "optionA": "Selenite F Broth",
+  "optionB": "Tryptic Soya Broth",
+  "optionC": "Alkaline Peptone Water (APW)",
+  "optionD": "Brain Heart Infusion Broth",
+  "answer": "Alkaline Peptone Water (APW)"
+ },
+ {
+  "question": "What is an enrichment broth used for stool pathogens like Salmonella?",
+  "optionA": "Alkaline Peptone Water",
+  "optionB": "Thioglycollate Broth",
+  "optionC": "Selenite F Broth",
+  "optionD": "Nutrient Broth",
+  "answer": "Selenite F Broth"
+ },
+ {
+  "question": "What is the common medium for fungal culture?",
+  "optionA": "Nutrient Agar",
+  "optionB": "Blood Agar",
+  "optionC": "Sabouraud Dextrose Agar (SDA)",
+  "optionD": "MacConkey Agar",
+  "answer": "Sabouraud Dextrose Agar (SDA)"
+ },
+ {
+  "question": "At what temperature are dimorphic fungi typically cultured?",
+  "optionA": "37°C",
+  "optionB": "42°C",
+  "optionC": "25°C",
+  "optionD": "4°C",
+  "answer": "25°C"
+ },
+ {
+  "question": "What broth is commonly used in automated blood culture bottles?",
+  "optionA": "Peptone Water",
+  "optionB": "Selenite F Broth",
+  "optionC": "Tryptic Soya Broth or BHI Broth",
+  "optionD": "Alkaline Peptone Water",
+  "answer": "Tryptic Soya Broth or BHI Broth"
+ },
+ {
+  "question": "An automated system like BACT/ALERT detects microbial growth by measuring what?",
+  "optionA": "Change in pH",
+  "optionB": "Turbidity",
+  "optionC": "CO₂ production (volume)",
+  "optionD": "Oxygen consumption",
+  "answer": "CO₂ production (volume)"
+ },
+ {
+  "question": "All media are used for stool culture EXCEPT:",
+  "optionA": "DCA",
+  "optionB": "XLD",
+  "optionC": "MacConkey Agar",
+  "optionD": "CLED Agar",
+  "answer": "CLED Agar"
+ },
+ {
+  "question": "A 24-hour urine test is not typically used for:",
+  "optionA": "Creatinine clearance",
+  "optionB": "Hormone levels",
+  "optionC": "Protein estimation",
+  "optionD": "Glucose estimation",
+  "answer": "Glucose estimation"
+ },
+ {
+  "question": "All are true about Gram stain EXCEPT:",
+  "optionA": "Using Crystal Violet as primary stain",
+  "optionB": "Using Iodine as a mordant",
+  "optionC": "Using Acetone as a decolourizer",
+  "optionD": "Using Sulphuric acid as a decolourizer",
+  "answer": "Using Sulphuric acid as a decolourizer"
+ },
+ {
+  "question": "What concentration of H₂SO₄ is used for decolourizing M. leprae?",
+  "optionA": "1%",
+  "optionB": "20%",
+  "optionC": "5%",
+  "optionD": "10%",
+  "answer": "5%"
+ },
+ {
+  "question": "All of the following are acid-fast EXCEPT:",
+  "optionA": "Mycobacterium",
+  "optionB": "Nocardia",
+  "optionC": "Cryptosporidium",
+  "optionD": "Staphylococcus / Cryptococcus",
+  "answer": "Staphylococcus / Cryptococcus"
+ },
+ {
+  "question": "The most common method for antibiotic susceptibility testing (AST) is:",
+  "optionA": "E-test",
+  "optionB": "Broth dilution",
+  "optionC": "Agar dilution",
+  "optionD": "Lawn culture (Kirby-auer disc diffusion)",
+  "answer": "Lawn culture (Kirby-auer disc diffusion)"
+ },
+ {
+  "question": "All are diffusion methods for AST EXCEPT:",
+  "optionA": "Kirby-auer method",
+  "optionB": "Stokes method",
+  "optionC": "E-test (epsilometer test)",
+  "optionD": "Broth dilution",
+  "answer": "Broth dilution"
+ },
+ {
+  "question": "Which is NOT a core step in the Polymerase Chain Reaction (PCR) cycle?",
+  "optionA": "Denaturation",
+  "optionB": "Annealing",
+  "optionC": "Extension",
+  "optionD": "Gel documentation",
+  "answer": "Gel documentation"
+ },
+ {
+  "question": "The three main steps of PCR include all EXCEPT:",
+  "optionA": "Denaturation",
+  "optionB": "Annealing",
+  "optionC": "Melting curve analysis",
+  "optionD": "Extension",
+  "answer": "Melting curve analysis"
+ },
+ {
+  "question": "What component is essential for detecting amplification in Real-Time PCR?",
+  "optionA": "Agarose gel",
+  "optionB": "Loading dye",
+  "optionC": "DNA ladder",
+  "optionD": "SYBR Green dye or specific probes (like TaqMan)",
+  "answer": "SYBR Green dye or specific probes (like TaqMan)"
+ },
+ {
+  "question": "Which statement about blotting techniques is FALSE?",
+  "optionA": "Southern blot detects DNA",
+  "optionB": "Northern blot detects RNA",
+  "optionC": "Western blot is used for antigen detection",
+  "optionD": "Western blot detects proteins",
+  "answer": "Western blot is used for antigen detection"
+ },
+ {
+  "question": "A point-of-care test (POCT) for UTI detects:",
+  "optionA": "Urobilinogen and Ketones",
+  "optionB": "Leukocyte esterase and/or Nitrites",
+  "optionC": "Protein and Glucose",
+  "optionD": "Blood and Bilirubin",
+  "answer": "Leukocyte esterase and/or Nitrites"
+ },
+ {
+  "question": "Which blood group is the universal donor?",
+  "optionA": "AB positive",
+  "optionB": "A negative",
+  "optionC": "B positive",
+  "optionD": "O negative",
+  "answer": "O negative"
+ },
+ {
+  "question": "How often should a Standard Operating Procedure (SOP) be followed?",
+  "optionA": "Only when training new staff",
+  "optionB": "Once a month",
+  "optionC": "Before every test",
+  "optionD": "When an error occurs",
+  "answer": "Before every test"
+ },
+ {
+  "question": "What chemical is used for blood spillage disinfection?",
+  "optionA": "Ethanol",
+  "optionB": "Isopropyl Alcohol",
+  "optionC": "Sodium Hypochlorite",
+  "optionD": "Hydrogen Peroxide",
+  "answer": "Sodium Hypochlorite"
+ },
+ {
+  "question": "All are sporicidal agents EXCEPT:",
+  "optionA": "Glutaraldehyde",
+  "optionB": "Formaldehyde",
+  "optionC": "Alcohol",
+  "optionD": "Ethylene oxide",
+  "answer": "Alcohol"
+ },
+ {
+  "question": "Moist heat sterilization at temperatures below 100°C includes all EXCEPT:",
+  "optionA": "Pasteurization",
+  "optionB": "Inspissation",
+  "optionC": "Autoclave",
+  "optionD": "Vaccine bath",
+  "answer": "Autoclave"
+ },
+ {
+  "question": "Which of the following is a Class 1 chemical indicator for sterilization?",
+  "optionA": "An exposure indicator (e.g. autoclave tape)",
+  "optionB": "A Bowie-Dick test",
+  "optionC": "A biological indicator",
+  "optionD": "A multi-parameter indicator",
+  "answer": "An exposure indicator (e.g. autoclave tape)"
+ },
+ {
+  "question": "Which statement about the Zika virus is likely FALSE?",
+  "optionA": "It is transmitted by Aedes mosquitoes",
+  "optionB": "It can cause microcephaly in newborns",
+  "optionC": "The highest number of cases were reported from Japan",
+  "optionD": "It can be sexually transmitted",
+  "answer": "The highest number of cases were reported from Japan"
+ }
+]
